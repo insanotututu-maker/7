@@ -1,0 +1,21 @@
+<figure class="p-3 bg-light border-start border-4 border-primary rounded">
+  <blockquote class="blockquote">
+    <p class="fs-5 fw-medium mb-2">
+      "Gracias a la metodología Mobile First pude lanzar mi primera aplicación web en menos de tres meses."
+    </p>
+  </blockquote>
+  <figcaption class="blockquote-footer mt-1 mb-0">
+    Mariana Silva en <cite title="Tech Startups">Tech Startups</cite>
+  </figcaption>
+</figure>
+
+<figure class="p-3 bg-light border-start border-4 border-success rounded mt-3">
+  <blockquote class="blockquote">
+    <p class="fs-5 fw-medium mb-2">
+      "Aprender a usar los 3 métodos de conexión me dio la flexibilidad que necesitaba para mis clientes."
+    </p>
+  </blockquote>
+  <figcaption class="blockquote-footer mt-1 mb-0">
+    David López en <cite title="DevStudio">DevStudio</cite>
+  </figcaption>
+</figure>
